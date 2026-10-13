@@ -51,4 +51,4 @@ Result: 3.0
 
 ## License
 
-No license file yet. Add one (for example MIT) before reusing the code.
+MIT License
